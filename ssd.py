@@ -1,4 +1,5 @@
 import wx
+import tkinter
 
 class MyFrame(wx.Frame):
     def __init__(self, parent, title):
